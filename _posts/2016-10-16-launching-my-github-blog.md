@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mesmoiron welcome to my coding blog"
+title: Mesmoiron welcome to my coding blog
 date: 2016-10-16
 ---
 If you have ever visited my website www.helengrives.nl, you probably know about the long recovery from thyroid cancer and chronique fatigue. It does not matter if you don't, but it gives some perspective about reinventing oneself.
